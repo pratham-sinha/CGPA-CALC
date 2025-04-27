@@ -55,6 +55,7 @@ function DataForm() {
     e.preventDefault();
   };
 
+  //handles reset too(when showCGPA=true)
   const handleShow=()=>{
     setShowCgpa(!showCGPA)
     if(showCGPA || weightedAverage.toFixed(2)>100){
