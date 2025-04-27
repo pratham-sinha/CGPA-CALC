@@ -122,7 +122,7 @@ function DataForm() {
 
    
        <div className="flex justify-center mt-9">
-       <span className="font-mono font-light ">Made with ❣️ by <a href="https://www.linkedin.com/in/prathamsinha/"  target="_blank" 
+       <span className="font-mono font-light ">Made by <a href="https://www.linkedin.com/in/prathamsinha/"  target="_blank" 
           rel="noopener noreferrer"
           className="text-blue-500 underline hover:text-blue-700">Pratham Sinha</a> </span>
         </div>
