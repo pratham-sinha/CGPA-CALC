@@ -106,7 +106,7 @@ function DataForm() {
 
          <div className="flex justify-center items-center ">
         {showCGPA && (
-          <div className="text-white text-lg  font-semibold font-mono mt-2">
+          <div className="text-white text-lg  font-semibold font-mono mt-2 flex flex-col">
              
             Your Cumulative GPA:{" "}
             <span className="text-600">{weightedAverage.toFixed(2)}</span>
