@@ -110,7 +110,7 @@ function DataForm() {
              
             Your Cumulative GPA:{" "}
             <span className="text-600">{weightedAverage.toFixed(2)}</span>
-            <span className="text-500>(Rounded off to two decimal places)</span>
+            <span className="text-500"> (Rounded off to two decimal places) </span>
           </div>
          
   
